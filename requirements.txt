@@ -1,0 +1,8 @@
+tensorflow-gpu
+keras
+pandas
+matplotlib
+numpy
+sklearn
+pillow
+opencv-python
